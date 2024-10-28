@@ -1,7 +1,6 @@
 # Transformer Model for Simple Arithmetic Operations - From Scratch
 
-This **Transformer Arithmetic Project** was completed as part of Assignment 5-2 from the *EECS 498-007 Deep Learning for Computer Vision* course at the University of Michigan. As a Computer Engineering student at the University of Toronto, I independently followed this course through publicly available YouTube lectures to deepen my understanding of Transformers.
-
+This **Transformer Arithmetic Project** was completed as part of Assignment 5-2 from the *EECS 498-007 Deep Learning for Computer Vision* course offered by the University of Michigan. Although I am a University of Toronto Computer Engineering student, I independently chose to follow this course online through its publicly available content on YouTube to deepen my knowledge in deep learning applications for computer vision.
 ## Project Overview
 
 In this project, I implemented the Transformer model based on the original *Attention is All You Need* paper. The model was trained on a toy dataset for basic arithmetic operations, specifically addition and subtraction. This project involved building the Transformer architecture from scratch and visualizing its attention weights to understand its learning process.
